@@ -1,0 +1,11 @@
+.container{
+    height: 400px;
+    width: 750px; 
+    background-color: 		#F5FFFA;
+    border-style: solid;
+    border-color: 	#F8F8FF;
+    border-width: 3px;
+}
+body {
+    background-color:#FFFFFF;
+}
